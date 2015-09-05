@@ -33,7 +33,7 @@ class atms{
 			return "Content replaced!";
 		}
 
-		add_mshortcode('baztag','test');
+		//add_mshortcode('baztag','test');
 
 	}
 	
